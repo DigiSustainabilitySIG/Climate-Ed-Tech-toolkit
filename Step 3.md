@@ -37,8 +37,11 @@ How are you going to share the outcomes of your collaboration?
 -   Arrange further workshops
 -   Conference
 -   Contact relevant national and/or international SIGs, groups
--   Contribute to this toolkit by adding to our [crowdsourcing doc](https://docs.google.com/document/d/1mdtChQRba97Foz2KtGhp5epGpyrNhuNDPVOQKc-wzjc/edit?usp=sharing)
+-   Contribute to this toolkit by adding to our [crowdsourcing doc](https://docs.google.com/document/d/1mdtChQRba97Foz2KtGhp5epGpyrNhuNDPVOQKc-wzjc/edit?usp=drive_link)
 
-### [Home](Home.html)
+***
+
 
 ### [Next step](Step%204.html)
+
+### [Home](Home.html)
