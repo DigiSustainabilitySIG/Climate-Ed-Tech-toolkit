@@ -21,8 +21,8 @@ sector?
 -   Internal policies, processes or strategies
 -   Internal working groups or communities of practice
 -   External policies or strategies
--   External, cross-institutional communities of practice, special
-    interest groups \[link to crowdsourced document\]
+-   External, cross-institutional communities of practice, special interest groups 
+
 
 **Collaborate**\
 What type of collaboration suits your initial ideas?
@@ -32,7 +32,7 @@ What type of collaboration suits your initial ideas?
 -   presentations
 -   working group
 -   resource creation
--   \[link to crowdsourced document\]
+-   
 
 **Share**\
 How are you going to share the outcomes of your collaboration?
@@ -41,7 +41,7 @@ How are you going to share the outcomes of your collaboration?
 -   Arrange further workshops
 -   Conference
 -   Contact relevant national and/or international SIGs, groups
--   Contribute to this toolkit \[link to crowdsourced document\]
+-   Contribute to this toolkit by adding to our [crowdsourcing doc](https://docs.google.com/document/d/1mdtChQRba97Foz2KtGhp5epGpyrNhuNDPVOQKc-wzjc/edit?usp=sharing)
 
 ### [Home](Home.html)
 
