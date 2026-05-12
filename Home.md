@@ -52,9 +52,8 @@ conversation with colleagues and take action at work.
 
 ### [Step 5 - Take action](Step%205.html)
 
-### [Useful resources](Useful%20resources.md)
+### [Useful resources](Useful%20resources.html)
 
-::: {#wcb .carbonbadge}
-:::
+
 <div id="wcb" class="carbonbadge"></div>
 <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
