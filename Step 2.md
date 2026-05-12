@@ -12,7 +12,7 @@ we\'ve broken it down into 5 areas. Take a look at the areas below to
 see more detail.\
 Pick the area that resonates most with you and review what is being done
 with regards to digital education and digital technology in your
-workplace. Use the questions below to get you started.\
+workplace. Use the questions below to get you started.
 
 ## Financial
 
@@ -23,11 +23,11 @@ This could include reviewing procurement and the supply chain for
 Learning Technology Equipment, and IT software and hardware including
 the VLE and Educational Media. Starting questions
 
--   Q. Is sustainability factored into your procurement process? Can you
+- [ ]   Q. Is sustainability factored into your procurement process? Can you
     set criteria to your purchasing based on a company's environmental
     credentials?
--   Q. What standards are new suppliers asked to provide?
--   Q. What discussions can you have with existing suppliers about
+- [ ]   Q. What standards are new suppliers asked to provide?
+- [ ]    Q. What discussions can you have with existing suppliers about
     sustainability? How can you work with your suppliers to influence
     their process?
 
@@ -38,14 +38,14 @@ How might our workplace be kinder to the natural world and reduce
 emissions? This might include reviewing and adapting in person physical
 learning spaces and online spaces.
 
--   Q. How can you find out about the environmental impact of your
+- [ ]   Q. How can you find out about the environmental impact of your
     learning spaces (online and in person)?
--   Q. What forms of meeting/working/learning are available to staff and
+- [ ]   Q. What forms of meeting/working/learning are available to staff and
     students?
--   Q. Could you analyse factors like transportation emissions and
+- [ ]   Q. Could you analyse factors like transportation emissions and
     energy consumption -- from raw materials to finished product
     delivery to compare different types of tools and technologies?
--   Q. Are the physical learning spaces being designed to be as energy
+- [ ]   Q. Are the physical learning spaces being designed to be as energy
     efficient as possible?
 
 ## People
@@ -56,11 +56,11 @@ and staff support, training and guidance. Ideally any approaches should
 incorporate and include accessibility and inclusivity to emphasise the
 holistic nature of sustainability.
 
--   Q. Is the environmental impact of educational technology tools
+- [ ]   Q. Is the environmental impact of educational technology tools
     included in your guidance and training?
--   Q. How can we bring people together to promote discussion around
+- [ ]   Q. How can we bring people together to promote discussion around
     these issues?
--   Q. How can guidance best be disseminated?
+- [ ]   Q. How can guidance best be disseminated?
 
 ## Teaching and learning:
 
@@ -71,11 +71,11 @@ and feedback design and processes, learning and teaching approaches and
 the use of educational technology to develop and deliver teaching and
 learning.
 
--   Q. Is the climate crisis embedded into curriculum and learning
+- [ ]   Q. Is the climate crisis embedded into curriculum and learning
     design?
--   Q. What choices do you make about hardware, software and data
+- [ ]   Q. What choices do you make about hardware, software and data
     retention?
--   Q. Is sustainability considered in the learning experience? Do you
+- [ ]   Q. Is sustainability considered in the learning experience? Do you
     offer low energy and Wi-Fi options? Are your assessment and feedback
     methods taking into account carbon emissions and energy consumption?
 
@@ -87,15 +87,15 @@ include working on institutional policy, committees and working groups
 with regards to the areas above.\
 Starting questions
 
--   Q. How might we encourage policy makers to incorporate climate
+- [ ]   Q. How might we encourage policy makers to incorporate climate
     considerations?
--   Q. Which pre-existing policies might we reassess?
--   Q. Can you identify any institutional policies where your role can
+- [ ]   Q. Which pre-existing policies might we reassess?
+- [ ]   Q. Can you identify any institutional policies where your role can
     support sustainability progress?
--   Q. What institutional committees and working groups can you be
+- [ ]   Q. What institutional committees and working groups can you be
     involved with and influence?
 
-\
+
 
 ### [Home](Home.html)
 
