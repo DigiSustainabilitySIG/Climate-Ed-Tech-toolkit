@@ -7,10 +7,10 @@ prioritize collective action within your organisation or field (see
 workshop slides and template for collaborative document for you to adapt
 as appropriate).
 
--   Workshop template
--   Workshop lesson plan
--   Crowdsourcing doc template
--   Questions to be added to anonymous voting tool
+-   [Workshop template](https://docs.google.com/presentation/d/1vrQ716Y5lNLWPo92zORww2TabuoVMdjm/edit?usp=drive_link&ouid=100960303040985908898&rtpof=true&sd=true)
+-   [Workshop lesson ](https://docs.google.com/document/d/1VLE9P-gP6LVhbzoECx85nZkLYmbXT47QLbqaOoBwR4g/edit?usp=sharing)
+-   [Crowdsourcing doc template](https://docs.google.com/document/d/1ygWIc07m4EK-HYE2u8-lWj8KyXfVuNvIYigxBg6k5pU/edit?usp=sharing)
+-   [Questions to be added to anonymous voting tool](https://docs.google.com/document/d/1-ACIVs-qWNvBI9iD22cAPc-ZhD9SDbSfp16AUPr6eH8/edit?usp=sharing)
 
 ### [Home](Home.html)
 
