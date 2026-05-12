@@ -40,7 +40,7 @@ Based on the work done by [Nature's workforce](https://naturesworkforce.org.uk/)
 Use the steps below to identify where you can influence change, start a
 conversation with colleagues and take action at work.
 
-### [About](About.html)
+***
 
 ### [Step 1 - Get to know your impact](Step%201.html)
 
@@ -53,6 +53,8 @@ conversation with colleagues and take action at work.
 ### [Step 5 - Take action](Step%205.html)
 
 ### [Useful resources](Useful%20resources.html)
+
+### [About](About.html)
 
 
 <div id="wcb" class="carbonbadge"></div>
