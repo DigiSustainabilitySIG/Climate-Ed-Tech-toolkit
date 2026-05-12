@@ -23,6 +23,9 @@ We have used Github pages as a low carbon option for the toolkit. This page rece
 <div id="wcb" class="carbonbadge"></div>
 <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
 
+
+::: {#wcb .carbonbadge}:::
+
 ***
 
 ### [Home](Home.html)
