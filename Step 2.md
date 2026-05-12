@@ -9,7 +9,8 @@ work?\
 \
 As Digital education and Educational Technology is a wide-ranging field,
 we\'ve broken it down into 5 areas. Take a look at the areas below to
-see more detail.\
+see more detail.
+
 Pick the area that resonates most with you and review what is being done
 with regards to digital education and digital technology in your
 workplace. Use the questions below to get you started.
@@ -23,10 +24,10 @@ This could include reviewing procurement and the supply chain for
 Learning Technology Equipment, and IT software and hardware including
 the VLE and Educational Media. Starting questions
 
-- [ ]   Q. Is sustainability factored into your procurement process? Can you
+- [ ]    Q. Is sustainability factored into your procurement process? Can you
     set criteria to your purchasing based on a company's environmental
     credentials?
-- [ ]   Q. What standards are new suppliers asked to provide?
+- [ ]    Q. What standards are new suppliers asked to provide?
 - [ ]    Q. What discussions can you have with existing suppliers about
     sustainability? How can you work with your suppliers to influence
     their process?
@@ -96,7 +97,8 @@ Starting questions
     involved with and influence?
 
 
-
-### [Home](Home.html)
+* * *
 
 ### [Next Step](Step%203.html)
+
+### [Home](Home.html)
