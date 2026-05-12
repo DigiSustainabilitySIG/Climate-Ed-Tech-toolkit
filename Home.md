@@ -41,3 +41,5 @@ conversation with colleagues and take action at work.
 
 ::: {#wcb .carbonbadge}
 :::
+<div id="wcb" class="carbonbadge"></div>
+<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
