@@ -1,7 +1,7 @@
 # Home
 
-\\What impact do the use of digital learning tools and practices have
-on the environment?\\
+**What impact do the use of digital learning tools and practices have
+on the environment?**
 
 Global warming caused by the burning of fossil fuels has led to more
 frequent and more intense extreme weather events that are causing
@@ -9,8 +9,8 @@ increasingly dangerous impacts on nature and people in every region of
 the world. Change is required at all levels of society to ensure a
 liveable and sustainable future for all.\
 \
-\\**How can we embed sustainability into our roles and processes,
-policies and work in the field of digital education?** \\\
+**How can we embed sustainability into our roles and processes,
+policies and work in the field of digital education?** 
 \
 A small cross institutional group of individuals concerned about the
 role of digitial education in the climate crisis developed and ran a
@@ -22,9 +22,10 @@ by step plan for individuals to have climate conversations at work and
 to encourage reflection on how to influence structural change within and
 between institutions.\
 \
-**\*\*What can I do? How to turn concern into meaningful action \*\*\
+**What can I do? How to turn concern into meaningful action**
+\
 Use the steps below to identify where you can influence change, start a
-conversation with colleagues and take action at work.**
+conversation with colleagues and take action at work.
 
 ### [About](About.html)
 
