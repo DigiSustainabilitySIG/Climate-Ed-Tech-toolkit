@@ -1,7 +1,7 @@
 # About us
 
-This toolkit was developed by the Association for Learning Technology
-Digital Sustainability SIG. We are individuals from several different UK
+This toolkit was developed by the [Association for Learning Technology
+Digital Sustainability SIG](https://www.alt.ac.uk/digital-sustainability-sig). We are individuals from several different UK
 Universities who wanted to do something about the role of Educational
 Technology in the Climate and Ecological crisis.\
 \
