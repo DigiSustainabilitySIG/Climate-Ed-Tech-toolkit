@@ -17,7 +17,8 @@ sector?
 -   Internal policies, processes or strategies
 -   Internal working groups or communities of practice
 -   External policies or strategies
--   External, cross-institutional communities of practice, special interest groups 
+-   External, cross-institutional communities of practice, special interest groups
+-   Check out the [useful resources page](Useful%20resources.html) to see what you might be able to use.
 
 
 ## Collaborate
