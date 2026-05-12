@@ -24,7 +24,7 @@ This could include reviewing procurement and the supply chain for
 Learning Technology Equipment, and IT software and hardware including
 the VLE and Educational Media. Starting questions
 
-- [ ]    Q. Is sustainability factored into your procurement process? Can you
+- Q. Is sustainability factored into your procurement process? Can you
     set criteria to your purchasing based on a company's environmental
     credentials?
 - [ ]    Q. What standards are new suppliers asked to provide?
@@ -98,6 +98,7 @@ Starting questions
 
 
 * * *
+
 
 ### [Next Step](Step%203.html)
 
