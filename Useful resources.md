@@ -3,6 +3,8 @@
 
 Pedagogic method for embedding Education for Sustainable Development (ESD) into the curriculum.
 
+* * *
+
 ## Digital footprint
 
 [Website carbon](https://www.websitecarbon.com/)
@@ -16,4 +18,6 @@ JavaScript library that allows developers to estimate the emissions associated w
 [Calculators](https://sparkhub.eu/calculators/)
 
 Various free tools to measure or estimate emissions for labs, events, travel and more.
+
+* * *
 
