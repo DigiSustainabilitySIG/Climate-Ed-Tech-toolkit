@@ -1,5 +1,3 @@
-title:
-
 # Climate Ed Tech Toolkit
 
 ### [About](About.html)
@@ -16,4 +14,4 @@ title:
 
 ### [Step 5 - Take action](Step%205.html)
 
-### [Useful resources](Useful%20resources.md)
+### [Useful resources](./Useful%20resources.html)
