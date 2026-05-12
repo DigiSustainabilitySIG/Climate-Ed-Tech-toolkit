@@ -1,3 +1,6 @@
+## Useful resources
+Some external resources, tools and toolkits which you may find useful.
+
 ## Learning design
 [CoDesignS Education for Sustainable Development toolkit](https://codesignsesd.org/toolkit/) 
 
