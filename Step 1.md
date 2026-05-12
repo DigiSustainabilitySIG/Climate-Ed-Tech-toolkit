@@ -17,7 +17,9 @@ to collaboratively and collectively bring about change. In this first step, we'l
 
 ### [Home](Home.html)
 
+### [Next Step](Step%202.html)
+
+
 <iframe src="https://app.lumi.education/api/v1/run/PcMCgY/embed" width="700" height="1200" frameborder="0" allowfullscreen="allowfullscreen">
 
-### [Next Step](Step%202.html)
 
