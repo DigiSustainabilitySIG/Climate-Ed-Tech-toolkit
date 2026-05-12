@@ -6,7 +6,7 @@ workshop or other collaborative activity to inspire colleagues and
 develop an action plan. Remember to share your ideas and look for
 opportunities to collaborate with those outside your organisation who
 are also doing work in this area. We have included a checklist taken
-from ClimateVoice.org to give you some ideas and get you started.\
+from [ClimateVoice.org](https://climatevoice.org/employee-climate-action-guide/) to give you some ideas and get you started.
 
 ## Checklist
 
@@ -14,45 +14,45 @@ from ClimateVoice.org to give you some ideas and get you started.\
 
     Go through your collaborative document and polling data, remember to
     share it with us. See if there is anything that stands out as an
-    area that people would like to work on.\
+    area that people would like to work on.
 
 -   ### Write a proposal
 
-    Create summary material for decision makers and fellow employees.\
+    Create summary material for decision makers and fellow employees.
 
 -   ### Draft an advocacy letter
 
     It can be from a small group of committed employees or you can begin
-    gathering signatures to show mass support.\
+    gathering signatures to show mass support.
 
 -   ### Make the pitch
 
-    Set up a meeting with the executive decision-maker or influencer\
+    Set up a meeting with the executive decision-maker or influencer.
 
 -   ### Set goals and create a timeline
 
     See our example below. You may want to factor in raising awareness
-    and involving staff and students.\
+    and involving staff and students.
 
 -   ### Get clear on next steps
 
-    Change takes time - build on each action one step at a time.\
+    Change takes time - build on each action one step at a time.
 
 -   ### Send a follow-up
 
     Recap the discussion and action items, share gratitude for the
-    opportunity to come to the table.\
+    opportunity to come to the table.
 
 -   ### Be open and collaborate
 
     The sustainability journey is a long and collaborative one. Share
-    the tasks with like-minded colleagues who can support you.\
+    the tasks with like-minded colleagues who can support you.
 
 -   ### Debrief with your community
 
     Discuss what worked, what didn't work, and what was missed. Identify
-    best practices and additional steps to take, share with the ALT SIG
-    via our collaborative doc.\
+    best practices and additional steps to take, share with the [ALT SIG](https://www.alt.ac.uk/digital-sustainability-sig)
+    via our [collaborative doc] or get in touch to oranise an event.(https://docs.google.com/document/d/1mdtChQRba97Foz2KtGhp5epGpyrNhuNDPVOQKc-wzjc/edit?usp=sharing).
 
 -   ### Act on your next step sooner than later
 
