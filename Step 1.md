@@ -15,7 +15,8 @@ Universities and further education colleges represent [2.3% of the UK's carbon
 Use this guide to think about the areas you can influence and the ways you can work with others
 to collaboratively and collectively bring about change. In this first step, we'll start to learn about our impact by taking a quick quiz about the impact of education technology on climate. Try the quiz below to test out your knowledge:  
 
-<iframe src="https://app.lumi.education/api/v1/run/PcMCgY/embed" width="800" height="800" frameborder="0" allowfullscreen="allowfullscreen">
+
+<iframe src="https://app.lumi.education/api/v1/run/PcMCgY/embed" width="700" height="1000" frameborder="0" allowfullscreen="allowfullscreen">
 
 ### [Home](Home.html)
 
