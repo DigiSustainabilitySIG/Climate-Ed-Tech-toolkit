@@ -52,7 +52,7 @@ from [ClimateVoice.org](https://climatevoice.org/employee-climate-action-guide/)
 
     Discuss what worked, what didn't work, and what was missed. Identify
     best practices and additional steps to take, share with the [ALT SIG](https://www.alt.ac.uk/digital-sustainability-sig)
-    via our [collaborative doc](https://docs.google.com/document/d/1mdtChQRba97Foz2KtGhp5epGpyrNhuNDPVOQKc-wzjc/edit?usp=sharing) or get in touch to organise an event.
+    via our [collaborative doc](https://docs.google.com/document/d/1mdtChQRba97Foz2KtGhp5epGpyrNhuNDPVOQKc-wzjc/edit?usp=drive_link) or get in touch to add to this [toolkit](Useful%20resources.html) or organise an event.
 
 -   ### Act on your next step sooner than later
 
@@ -61,4 +61,6 @@ from [ClimateVoice.org](https://climatevoice.org/employee-climate-action-guide/)
     until you can regroup on the larger issues. Check in with the wider
     community for support and advice if you get stuck.
 
+    ***
+[Back](Step%204.html)
 [Home](Home.html)
