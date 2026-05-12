@@ -1,4 +1,4 @@
-# Climate Ed Tech Toolkit
+# Climate Ed Tech Toolkit contents
 
 ### [About](About.html)
 
