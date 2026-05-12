@@ -24,6 +24,19 @@ between institutions.\
 \
 **What can I do? How to turn concern into meaningful action**
 \
+Based on the work done by [Nature's workforce](https://naturesworkforce.org.uk/) this toolkit is designed to help guide you through the process of steps for climate and positive actions within your own digital education contexts.
+
+>"Rapid and far reading transitions across all sectors and systems are necessary to achieve deep and sustained emissions reductions and secure a livable and sustainable future for all".
+    
+[IPCC The Synthesis Report of the Sixth Assessment Report (2023)](https://www.ipcc.ch/report/ar6/syr/)
+
+
+
+>"Business are in a unique position to help solve the nature crisis because many have influence through their value or supply chains. They can move faster than any government in tackling the problem and they have access to some of the best minds, funding and technology"
+
+[Natures Workforce](https://naturesworkforce.org.uk/)
+
+
 Use the steps below to identify where you can influence change, start a
 conversation with colleagues and take action at work.
 
@@ -38,6 +51,8 @@ conversation with colleagues and take action at work.
 ### [Step 4 - Hold the conversation](Step%204.html)
 
 ### [Step 5 - Take action](Step%205.html)
+
+### [Useful resources]
 
 ::: {#wcb .carbonbadge}
 :::
