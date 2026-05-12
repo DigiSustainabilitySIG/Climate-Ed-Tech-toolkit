@@ -52,13 +52,13 @@ from [ClimateVoice.org](https://climatevoice.org/employee-climate-action-guide/)
 
     Discuss what worked, what didn't work, and what was missed. Identify
     best practices and additional steps to take, share with the [ALT SIG](https://www.alt.ac.uk/digital-sustainability-sig)
-    via our [collaborative doc(https://docs.google.com/document/d/1mdtChQRba97Foz2KtGhp5epGpyrNhuNDPVOQKc-wzjc/edit?usp=sharing) or get in touch to organise an event.
+    via our [collaborative doc](https://docs.google.com/document/d/1mdtChQRba97Foz2KtGhp5epGpyrNhuNDPVOQKc-wzjc/edit?usp=sharing) or get in touch to organise an event.
 
 -   ### Act on your next step sooner than later
 
     Keep the momentum, and don't be disparaged if you hit a roadblock.
     If your target feels out of reach, focus on achieving small wins
     until you can regroup on the larger issues. Check in with the wider
-    community for support and advice if you get stuck.\
+    community for support and advice if you get stuck.
 
 [Home](Home.html)
