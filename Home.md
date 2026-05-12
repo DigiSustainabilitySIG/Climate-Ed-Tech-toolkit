@@ -52,7 +52,7 @@ conversation with colleagues and take action at work.
 
 ### [Step 5 - Take action](Step%205.html)
 
-### [Useful resources]
+### [Useful resources](Useful%20resources.md)
 
 ::: {#wcb .carbonbadge}
 :::
