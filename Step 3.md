@@ -1,13 +1,12 @@
 # Step 3: Collaborate with colleagues
 
-## Find out how to engage your colleagues in the discussion and work outwho to get involved. 
+**Find out how to engage your colleagues in the discussion and work outwho to get involved**. 
+
 We work better together, whether in a team, department, organization, or across organizations. Consider your context and determine the initiallevel of your collaboration:
 
 -   How might you find like-minded colleague/s?
 -   How can you make an impact in your immediate team?
--   What activity can you connect with or lead on in your wider team /
-    department?
--   A bigger part of the organisation
+-   What activity can you connect with or lead on in your wider team/department?
 -   How can you support sustainability activity in the whole
     organisation?
 
@@ -29,7 +28,7 @@ What type of collaboration suits your initial ideas?
 -   presentations
 -   working group
 -   resource creation
--   
+  
 
 ## Share
 How are you going to share the outcomes of your collaboration?
